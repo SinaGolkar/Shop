@@ -19,4 +19,4 @@ Shopping
  
 ### have Auth Gaurd Provider for logging in user that register
 
- Developed By Sahand Golkar
+ Developed By Sina Golkar
